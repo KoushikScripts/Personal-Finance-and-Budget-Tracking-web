@@ -46,19 +46,19 @@ finance-tracker-backend/
 ## ⚡ **Installation & Setup**
 
 ### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/yourusername/finance-tracker.git
+```
+git clone https://github.com/KoushikScripts/finance-tracker.git
 cd finance-tracker
 ```
 
 ### **2️⃣ Install Frontend Dependencies**
-```bash
+```
 cd finance-tracker-frontend
 npm install
 ```
 
 ### **3️⃣ Install Backend Dependencies**
-```bash
+```
 cd ../finance-tracker-backend
 npm install
 ```
@@ -71,7 +71,7 @@ PORT=5000
 ```
 
 ### **5️⃣ Start Backend Server**
-```bash
+```
 cd finance-tracker-backend
 node server.js
 ```
